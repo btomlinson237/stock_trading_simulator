@@ -1,4 +1,4 @@
-# Stock_Trading_Simulator
+# Bobby's Stock Trading Simulator
 
 For this project, I utilized HTML5, CSS3, SQL, Bootstrap, jQuery, Python, Flask (Python microframework), and the Yahoo Finance API
 
