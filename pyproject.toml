@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "stock-trading-simulator"
+version = "0.1.0"
+description = "Dynamic stock trading simulator that allows users to set up accounts, manage portfolios, and add/subtract tickers, all with real-time market data integration."
+authors = ["Bobby Tomlinson"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Flask = "^3.0.0"
+flask_session = "^0.5.0"
+passlib = "^1.7.4"
+cs50 = "^9.2.6"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
